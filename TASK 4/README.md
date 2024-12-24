@@ -17,8 +17,8 @@ This project implements a simple Caesar Cipher encryption and decryption script 
 
 1. Clone this repository:
    ```bash
-   git clone 
-   cd <repository-folder>
+   git clone https://github.com/GokulCSECS/Prodigy-InfoTech/TASK%204
+   cd Prodigy-InfoTech/TASK%204
    ```
 
 2. Ensure Python 3.x is installed on your system.
