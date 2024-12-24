@@ -17,8 +17,8 @@ This project is a simple keylogger built using Python and the `pynput` library. 
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/GokulCSECS/Prodigy-InfoTech
+   cd Prodigy-InfoTech/TASK 1
    ```
 
 2. Install the required library:
