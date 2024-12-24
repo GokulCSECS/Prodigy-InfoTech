@@ -17,8 +17,8 @@ This project provides a Python script to encrypt and decrypt images using a rand
 
 1. Clone this repository:
    ```bash
-   git clone 
-   cd <repository-folder>
+   git clone https://github.com/GokulCSECS/Prodigy-InfoTech/TASK%203
+   cd Prodigy-InfoTech/TASK%203
    ```
 
 2. Install the required library:
