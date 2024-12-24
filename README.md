@@ -18,7 +18,7 @@ Run the script to start logging keystrokes:
 python keylogger.py
 ```
 
-[Detailed Documentation](keylogger/README.md)
+(keylogger/README.md)
 
 ---
 
@@ -35,7 +35,7 @@ Run the script and input a password to assess its strength:
 python password_strength_assessor.py
 ```
 
-[Detailed Documentation](password_strength/README.md)
+(password_strength/README.md)
 
 ---
 
@@ -55,8 +55,7 @@ Decrypt an image:
 ```python
 decrypt_image('encrypted_image.png', 'decrypted_image.png', key=12345)
 ```
-
-[Detailed Documentation](image_encryption/README.md)
+(image_encryption/README.md)
 
 ---
 
@@ -74,7 +73,7 @@ Run the script and follow the prompts to encrypt or decrypt a message:
 python caesar_cipher.py
 ```
 
-[Detailed Documentation](caesar_cipher/README.md)
+(caesar_cipher/README.md)
 
 ---
 
@@ -82,7 +81,7 @@ python caesar_cipher.py
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/GokulCSECS/Prodigy-InfoTech/tree/main
+   git clone https://github.com/GokulCSECS/Prodigy-InfoTech.git
    cd <repository-folder>
    ```
 
