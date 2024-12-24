@@ -26,8 +26,8 @@ This project is a Python script that evaluates the strength of a password based 
 
 1. Clone this repository:
    ```bash
-   git clone 
-   cd <repository-folder>
+   git clone https://github.com/GokulCSECS/Prodigy-InfoTech/TASK%202
+   cd Prodigy-InfoTech/TASK%202
    ```
 
 2. Ensure Python 3.x is installed on your system.
